@@ -1019,7 +1019,24 @@ innerHTML
 
 ## 07/29 interactive Javascript
 
+### the Markdown learning  
+
+* the document keyword grant access to the root of DOM   
+
+* select a sprcific element : querySelector() or getElementById()  
+
+* change element's content : .innerHTML   
+* change element's style : .style  
+* manipulate element:  
+1. create element: `.createElement()`  
+2. add child: `.appendChild()`  
+3. delete child: `.deleteChild()`  
+
+* add interactivity by: `onclick()`
+
+
 ### Traversing the DOM
+JAVASCRIPT AND THE DOM
 
 
 ### about NLP
